@@ -2,7 +2,7 @@
 
 ![walnut banner](assets/walnut_banner.png)
 
-### Overview
+#### Overview
 
 A good example to get you started with using `stype`. The app is centered around
 a walnut with a secret number inside.
